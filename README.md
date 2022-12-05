@@ -10,7 +10,7 @@
 </a>
 
 <br />
-
+<br />
 
 Hi, I'm Iftesha Najnin, an aspiring Data Scientist. I am a physicist turned Data scientist. My area of reasearch interset icludes Deep Learning, NLP, Computer    vision. I am currently learning the optimization techniques in Deep Learning.
 
