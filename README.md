@@ -1,6 +1,6 @@
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/iftesha-najnin-584aa5182/">
   <img align="left" alt="Ketan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -11,7 +11,8 @@
 
 <br />
 
-Hi, I'm Iftesha Najnin, an aspiring Data Scientist. I am a physicist turned Data scientist. My area of reasearch interset icludes Deep Learning, NLP, Computer vision. I am currently learning the optimization techniques in Deep Learning.
+
+Hi, I'm Iftesha Najnin, an aspiring Data Scientist. I am a physicist turned Data scientist. My area of reasearch interset icludes Deep Learning, NLP, Computer    vision. I am currently learning the optimization techniques in Deep Learning.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
   
