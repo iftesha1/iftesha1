@@ -16,7 +16,7 @@ Hi, I'm Iftesha Najnin, an aspiring Data Scientist. I am a physicist turned Data
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
   
-- 👀 I’m interested in Machine Learning, Deep Learning,NLP.
+- 👀 I’m interested in Machine Learning, Deep Learning, NLP, Computer Vision.
 - 👯 I’m looking to collaborate on AI/ML driven applications. 
 - 📫 How to reach me: [Email](ifteshanajnin786@gmail.com);
 - 📝 [Resume](https://drive.google.com/file/d/1j72LoW-xmpSkf-ZTIygEWgXKxBzLhql7/view?usp=sharing)
